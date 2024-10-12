@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+  <actions>
+    <action>
+      <title>gg</title>
+      <rating>12</rating>
+      <duration>123</duration>
+    </action>
+  </actions>
+  <detectives />
+  <dramas />
+  <militaries />
+  <heroes />
+  <animations />
+  <animes />
+  <interactives />
+</list>

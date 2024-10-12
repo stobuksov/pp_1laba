@@ -1,0 +1,41 @@
+{
+    "actions": [
+        {
+            "title": "крепкий орешек",
+            "rating": 98,
+            "duration": "198"
+        },
+        {
+            "title": "жопа",
+            "rating": 11,
+            "duration": "123"
+        },
+        {
+            "title": "пп",
+            "rating": 12,
+            "duration": "132"
+        },
+        {
+            "title": "gg",
+            "rating": 12,
+            "duration": "123"
+        },
+        {
+            "title": "gg",
+            "rating": 12,
+            "duration": "123"
+        },
+        {
+            "title": "gg",
+            "rating": 12,
+            "duration": "123"
+        }
+    ],
+    "detectives": [],
+    "dramas": [],
+    "militaries": [],
+    "heroes": [],
+    "animations": [],
+    "animes": [],
+    "interactives": []
+}
